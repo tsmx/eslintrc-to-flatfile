@@ -7,7 +7,7 @@ function addToString(input) {
     // wrong string quotation sign (double instead of single), should be highlighted
     let stringToAdd = ", World!";
     switch (input) {
-      // case-statement not indented correctly, should be highlighted
+        // case-statement not indented correctly, should be highlighted
     case 'Hello': 
         result = input + stringToAdd;
         break;
