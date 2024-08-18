@@ -14,10 +14,10 @@ To follow along with the guide, clone this repo an inspect the branches for ESLi
 git clone https://github.com/tsmx/eslintrc-to-flatfile.git
 
 # check out/switch to the original ESLint v8 project using eslintrc.json
-git checkout commonjs
+git checkout eslint-v8
 npm install
 
 # check out/switch to the migrated ESLint v9 project using new eslint.config.js
-git checkout esm
+git checkout eslint-v9
 npm install
 ```
