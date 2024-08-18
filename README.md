@@ -7,6 +7,8 @@ This is the accompanying example project for the  []().
 
 To follow along with the guide, clone this repo an inspect the branches for ESLint v8 (old eslintrc config) and v9 (new flat-file config).
 
+*Note:* Since the needed dependencies change when migrating from ESLint v8 to v9, you'll need to to a `npm install` after switching the branch.
+
 ```bash
 # clone the example project
 git clone https://github.com/tsmx/eslintrc-to-flatfile.git
